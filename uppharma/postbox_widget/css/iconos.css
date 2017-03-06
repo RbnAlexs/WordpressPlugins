@@ -1,0 +1,63 @@
+.wrapper .mod_3 { 
+  border-top: 1px #dbd dashed;
+  padding: 20px 0px 20px 0px;
+  max-width: 100%;
+}
+
+.wrapper .mod_2{
+    border-bottom: 1px #dbd dashed;
+    margin-bottom: 2px;
+    height: 340px;
+    padding-top: 30px;
+}
+.mod_2 .iconos{
+  padding-left: 60px;
+  width: 930px;
+}
+
+.mod_2 .inner{
+	position: relative;
+	float: left;
+	height: 160px !important;
+  padding: 10px 40px 0px 20px;
+	width: 405px !important;
+}
+
+
+.mod_2  a{
+        color: #464646;
+        font-size: 0.9em;
+        line-height: 15px;
+        text-decoration: none;
+        pointer-events: none;
+        cursor: default;
+}
+
+
+.mod_2 .title{
+    float: right;
+    padding-top: 31px;
+    vertical-align: middle;
+    width: 290px;
+}
+.mod_2 .title h3{
+ padding-left: 10px;
+
+}
+
+.mod_2 .thumbs{
+    float: left;
+    width: 110px;
+}
+
+.mod_2 img{
+   width: 110px; 
+   height: 110px; 
+   /*border-radius: 150px; 
+   -webkit-border-radius: 150px; 
+   -moz-border-radius: 150px; 
+   */
+   float: left;
+
+}
+
